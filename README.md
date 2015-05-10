@@ -1,6 +1,6 @@
 # allgo
 
-Crawler of Go dependencies graph
+Crawler of Go dependencies graph. Uses http://go-search.org/ as the data source.
 
 # install
 

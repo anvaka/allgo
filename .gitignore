@@ -6,7 +6,10 @@ lib-cov
 *.out
 *.pid
 *.gz
+go_*.json
 
+labels.json
+links.bin
 pids
 logs
 results
