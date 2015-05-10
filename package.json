@@ -1,0 +1,21 @@
+{
+  "name": "allgo",
+  "version": "1.0.0",
+  "description": "Crawler of Go dependencies graph",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "go",
+    "crawler",
+    "indexer",
+    "gcse"
+  ],
+  "author": "Andrei Kashcha",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anvaka/allgo"
+  }
+}
