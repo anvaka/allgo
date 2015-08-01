@@ -2,13 +2,19 @@
 
 Crawler of Go dependencies graph. Uses http://go-search.org/ as the data source.
 
-# install
+# usage
 
-With [npm](https://npmjs.org) do:
+This simple steps will produce local version of the go graph:
 
 ```
-npm install allgo
+git clone https://github.com/anvaka/allgo
+cd allgo
+./download.sh
+node layout.js
+node toBinary.js
 ```
+
+The ouptut is stored to `./data` folder, and can be consumed by [pm visualization](https://github.com/anvaka/pm)
 
 # license
 
