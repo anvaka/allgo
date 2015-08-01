@@ -4,7 +4,7 @@ Crawler of Go dependencies graph. Uses http://go-search.org/ as the data source.
 
 # usage
 
-This simple steps will produce local version of the go graph:
+These simple steps will produce local version of the go graph:
 
 ```
 git clone https://github.com/anvaka/allgo
