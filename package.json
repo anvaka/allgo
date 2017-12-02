@@ -19,7 +19,7 @@
     "url": "https://github.com/anvaka/allgo"
   },
   "dependencies": {
-    "ngraph.graph": "0.0.11",
+    "ngraph.graph": "0.0.14",
     "ngraph.offline.layout": "^1.0.0",
     "ngraph.tobinary": "^1.0.0"
   }
